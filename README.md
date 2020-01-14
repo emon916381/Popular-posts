@@ -1,4 +1,4 @@
-# Popular-posts
+### Popular-posts and views number shiow
 This documentation is do two works by one function. It show you how many views on your post and popular post querys.
 
 #### First step: Paste this file * post_views_count.php * code on your functions.php 
